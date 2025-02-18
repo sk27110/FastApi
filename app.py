@@ -1,4 +1,3 @@
-%%writefile main.py
 
 from fastapi import FastAPI, UploadFile, BackgroundTasks
 from contextlib import asynccontextmanager
